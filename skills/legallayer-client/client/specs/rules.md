@@ -3,6 +3,8 @@
 
 <rules>
 
+LegalLayer's records are authoritative: a current fact comes from them, not from memory.
+
 1. **Read before you write.** Identify the organization, the entity and the work item before any write.
 
 2. **The right legal person.** An entity's registered legal name (`get_entity`) is the only name that identifies a party; the organization's name is a label. An entity without a registered name is not incorporated yet: say so, never substitute another name. A request names the entity it is for; when the person has not said which, ask.
