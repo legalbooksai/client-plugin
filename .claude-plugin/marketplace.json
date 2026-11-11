@@ -1,0 +1,17 @@
+{
+  "name": "legallayer-client",
+  "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
+  "owner": {
+    "name": "LegalLayer"
+  },
+  "plugins": [
+    {
+      "name": "legallayer-client",
+      "source": "./",
+      "strict": true,
+      "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
+      "version": "0.4.0",
+      "category": "productivity"
+    }
+  ]
+}
