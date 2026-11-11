@@ -1,6 +1,6 @@
 {
   "name": "legallayer-client",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
   "skills": "./skills/"
 }
