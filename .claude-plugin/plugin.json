@@ -1,10 +1,10 @@
 {
   "name": "legallayer-client",
-  "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
+  "description": "Work with your legal team from Claude: check on your Matters and Projects, ask for legal work, read and send messages, find and upload documents.",
   "author": {
     "name": "LegalLayer"
   },
-  "homepage": "https://github.com/legalbooksai/client-plugin",
+  "homepage": "https://github.com/legallayer/client-plugin",
   "license": "Apache-2.0",
   "keywords": [
     "legallayer",
@@ -20,5 +20,5 @@
       "url": "https://api.legalbooks.ai/mcp"
     }
   },
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

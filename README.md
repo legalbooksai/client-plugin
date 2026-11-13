@@ -1,7 +1,7 @@
 # LegalLayer
 
 Work with your legal team from Claude. This plugin brings the LegalLayer connector and the skill
-that teaches Claude to use it: check on your company's requests and deals, ask your legal team
+that teaches Claude to use it: check on your company's Matters and Projects, ask your legal team
 for work, read and answer their messages, find and upload documents.
 
 You need a LegalLayer account. Claude acts as you, with your access and nothing more. Nothing here
@@ -9,7 +9,7 @@ is legal advice.
 
 ## Install in Claude Code
 
-1. Type `/plugin`, open **Marketplaces**, choose **Add marketplace** and enter `legalbooksai/client-plugin`.
+1. Type `/plugin`, open **Marketplaces**, choose **Add marketplace** and enter `legallayer/client-plugin`.
 2. Open **Discover**, select **legallayer-client** and choose **Install**.
 3. Restart Claude Code.
 4. Type `/mcp`, select **legallayer** and sign in with your LegalLayer account.
@@ -17,7 +17,7 @@ is legal advice.
 From a terminal:
 
 ```
-claude plugin marketplace add legalbooksai/client-plugin
+claude plugin marketplace add legallayer/client-plugin
 claude plugin install legallayer-client@legallayer-client
 ```
 

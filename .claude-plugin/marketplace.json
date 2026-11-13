@@ -1,6 +1,6 @@
 {
   "name": "legallayer-client",
-  "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
+  "description": "Work with your legal team from Claude: check on your Matters and Projects, ask for legal work, read and send messages, find and upload documents.",
   "owner": {
     "name": "LegalLayer"
   },
@@ -9,8 +9,8 @@
       "name": "legallayer-client",
       "source": "./",
       "strict": true,
-      "description": "Work with your legal team from Claude: check on your requests and deals, ask for legal work, read and send messages, find and upload documents.",
-      "version": "0.7.0",
+      "description": "Work with your legal team from Claude: check on your Matters and Projects, ask for legal work, read and send messages, find and upload documents.",
+      "version": "0.8.0",
       "category": "productivity"
     }
   ]
