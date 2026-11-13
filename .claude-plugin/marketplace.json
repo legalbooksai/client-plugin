@@ -10,7 +10,7 @@
       "source": "./",
       "strict": true,
       "description": "Work with your legal team from Claude: check on your Matters and Projects, ask for legal work, read and send messages, find and upload documents.",
-      "version": "0.8.3",
+      "version": "0.8.4",
       "category": "productivity"
     }
   ]
